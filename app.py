@@ -1,6 +1,3 @@
-from langchain.llms import Clarifai
-from clarifai_utils.modules.css import ClarifaiStreamlitCSS
-
 import streamlit as st
 from PIL import Image
 import pandas as pd
