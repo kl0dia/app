@@ -1,2 +1,3 @@
+!pip install -q clarifai-grpc && pip install --upgrade --no-deps -q protobuf
 streamlit==1.33.0
 clarifai==2.6.2
