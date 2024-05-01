@@ -1,5 +1,3 @@
-pip install streamlit 
-pip install clarifai-grpc
 
 import streamlit as st
 from PIL import Image
