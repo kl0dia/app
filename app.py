@@ -1,4 +1,5 @@
 !pip install -q clarifai-grpc && pip install --upgrade --no-deps -q protobuf
+pip install pandas
 
 import streamlit as st
 from PIL import Image
